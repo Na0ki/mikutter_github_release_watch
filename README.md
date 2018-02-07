@@ -1,0 +1,2 @@
+# mikutter_github_release_watch
+特定のリポジトリのリリースを監視してお知らせするやつ

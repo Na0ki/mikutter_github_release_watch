@@ -1,0 +1,9 @@
+---
+slug: :github_release_watch
+depends:
+  mikutter: 3.6.0-develop
+  plugin: []
+version: '1.0'
+author: ahiru3net
+name: github_release_watch
+description: watch new release
